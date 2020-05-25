@@ -5,9 +5,9 @@ https://hugoecarl.github.io/EscapeTheGalaxy/
 
 ## Instruções  
 
-- O jogo consiste em duas cenas, na primeira para mover a nave podemos usar as teclas "w","a","s","d" ou as setas para controlar a direção, o botão direito do mouse para atirar e a barra de espaço para controlar a nave. Na segunda cena dentro do planeta podemos mover o personagem com as mesmas teclas que movemos a nave e barra de espaço para pular. 
+- O jogo consiste em duas cenas, na primeira para mover a nave podemos usar as teclas "w","a","s","d" ou as setas para controlar a direção, o botão direito do mouse para atirar e a barra de espaço para acelerar a nave. Na segunda cena dentro do planeta podemos mover o personagem com as mesmas teclas que movemos a nave e barra de espaço para pular. 
 
-- Se existir algum problema com a visualização do placar e dos objetivos jogar em modo tela cheia.  
+- Se existir algum problema com a visualização do placar e dos objetivos jogar em modo tela cheia e se houver algum problema relacionado a alguma cena atualizar o browser reiniciando o jogo.  
 
 ## GamePlay  
 
