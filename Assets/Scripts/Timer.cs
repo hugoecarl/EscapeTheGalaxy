@@ -9,7 +9,7 @@ public class Timer : MonoBehaviour
     // Start is called before the first frame update
     
     public static float currentTime = 0f;
-    float ime = 0.0f;
+    public static float ime = 0.0f;
     public Text timer;
     public static bool flag = false;
 

@@ -102,7 +102,7 @@ public class PlayerController : MonoBehaviour
     IEnumerator Jumps()
     {
         audioSource.PlayOneShot(Jumpsound);
-        for (int i = 0; i < 18; i++){
+        for (int i = 0; i < 26; i++){
         anim.SetBool("jump", true);
         moveDirection.y -= -80 * Time.deltaTime;
         character.Move(moveDirection * Time.deltaTime);
